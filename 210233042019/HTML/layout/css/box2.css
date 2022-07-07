@@ -1,0 +1,48 @@
+.mdiv {
+    background-color: white;
+}
+
+.ldiv {
+    margin-bottom: 10px;
+    background-color: gray;
+    text-align: center;
+}
+
+.ndiv {
+    height: 30px;
+    background-color: gray;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.sdiv {
+    background-color: white;
+    float: left;
+    margin-right: 190px;
+    padding-top: 50px;
+    height: 180px;
+    text-align: center;
+}
+
+.bdiv {
+    height:100px;
+    padding-top: 50px;
+    margin-top: 10px;
+    margin-left: 70px;
+    background-color: gray;
+    text-align: center;
+}
+
+.hdiv {
+    height:60px;
+    /* padding-top: 50px; */
+    margin-top: 10px;
+    margin-left: 70px;
+    background-color: gray;
+    text-align: center;
+}
+
+.fdiv {
+    margin-top: 10px;
+    background-color: gray;
+    text-align: center;
+}

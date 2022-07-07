@@ -1,0 +1,16 @@
+h1 { 
+    color :blue;
+}
+body{
+    background-color: rgb(243, 234, 234);
+}
+    
+.me{
+    color: blueviolet;
+}
+
+img{
+    height:20%;
+    width:30%;
+    text-align: center;
+}
